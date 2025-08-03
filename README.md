@@ -21,7 +21,7 @@ Each project includes:
 
 ## 🔗 Live Link
 
-[🚀 50 Projects in 50 Days](https://toaufik.github.io/50-projects-50-Days/)
+<a href="https://toaufik.github.io/50-projects-50-Days/" target="_blank">🚀 50 Projects in 50 Days</a>
 
 ---
 
