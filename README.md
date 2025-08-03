@@ -14,6 +14,7 @@ Each project includes:
 | Day | Project             | Description                                                         |
 | --- | ------------------- | ------------------------------------------------------------------- |
 | 1   | **Expanding Cards** | Interactive card panels using basic HTML, CSS transitions, and JS   |
+| 2   | **Progress Steps** | Interactive progress steps component w/ step indicators, a progress bar, and nav buttons.   |
 
 *More projects coming soon...*
 
