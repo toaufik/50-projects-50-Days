@@ -15,6 +15,7 @@ Each project includes:
 | --- | ------------------- | ------------------------------------------------------------------- |
 | 1   | **Expanding Cards** | Interactive card panels using basic HTML, CSS transitions, and JS   |
 | 2   | **Progress Steps** | Interactive progress steps component w/ step indicators, a progress bar, and nav buttons.   |
+| 3   | **Rotating Navigation** | An interactive UI with a rotating navigation menu that smoothly rotates the entire layout.   |
 
 *More projects coming soon...*
 
