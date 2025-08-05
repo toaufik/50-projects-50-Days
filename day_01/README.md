@@ -19,6 +19,11 @@ A simple interactive UI built using HTML, CSS, and Vanilla JavaScript featuring 
 
 ---
 
+## 🔗 Live Link
+
+<a href="https://toaufik.github.io/50-projects-50-Days/day_01/index.html" target="_blank">Expanding Cards</a>
+
+
 ## 📁 Project Structure
 
 ```

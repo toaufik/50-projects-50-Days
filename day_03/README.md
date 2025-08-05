@@ -21,6 +21,11 @@ An interactive rotating navigation menu with a travel-themed vlog layout, built 
 
 ---
 
+## 🔗 Live Link
+
+<a href="https://toaufik.github.io/50-projects-50-Days/day_03/index.html" target="_blank">Rotating Nav</a>
+
+
 ## 📁 Project Structure
 
 ```

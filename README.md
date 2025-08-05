@@ -16,6 +16,7 @@ Each project includes:
 | 1   | **Expanding Cards** | Interactive card panels using basic HTML, CSS transitions, and JS   |
 | 2   | **Progress Steps** | Interactive progress steps component w/ step indicators, a progress bar, and nav buttons.   |
 | 3   | **Rotating Navigation** | An interactive UI with a rotating navigation menu that smoothly rotates the entire layout.   |
+| 4   | **Hidden Search Widget** | An interactive hidden search widget reveals a search bar smoothly when clicked  |
 
 *More projects coming soon...*
 
@@ -42,14 +43,14 @@ Each project includes:
 50-projects-50-Days/
 │
 ├── day_01/
-├── index.html              
-├── README.md               
-├── assets/
-    ├── css/
-    │   └── style.css
-    ├── js/
-    │   └── script.js
-    └── img/           # Image assets used in panels
+    ├── index.html              
+    ├── README.md               
+    ├── assets/
+        ├── css/
+        │   └── style.css
+        ├── js/
+        │   └── script.js
+        └── img/           # Image assets used in panels
 └── ...
 
 - Each `day_xx` folder contains a self-contained project.
@@ -63,7 +64,7 @@ Each project includes:
 
 - Improve **front-end skills** through hands-on mini-projects
 - Strengthen **problem-solving** using JavaScript
-- Explore **modern styling** with utility-first CSS frameworks
+- Explore **modern UI design** techniques with pure CSS 
 - Maintain clean, modular code using proper folder structure
 
 ---

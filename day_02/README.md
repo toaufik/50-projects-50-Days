@@ -21,6 +21,11 @@ A clean, interactive progress steps component built using **HTML**, **CSS**, and
 
 ---
 
+## 🔗 Live Link
+
+<a href="https://toaufik.github.io/50-projects-50-Days/day_02/index.html" target="_blank">Progress Steps UI</a>
+
+
 ## 📁 Project Structure
 
 ```
