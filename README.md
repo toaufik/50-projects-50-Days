@@ -17,6 +17,7 @@ Each project includes:
 | 2   | **Progress Steps** | Interactive progress steps component w/ step indicators, a progress bar, and nav buttons.   |
 | 3   | **Rotating Navigation** | An interactive UI with a rotating navigation menu that smoothly rotates the entire layout.   |
 | 4   | **Hidden Search Widget** | An interactive hidden search widget reveals a search bar smoothly when clicked  |
+| 5   | **Blurry Loading Background** | An animated blurry loading background effect that smoothly reveals the background  |
 
 *More projects coming soon...*
 
