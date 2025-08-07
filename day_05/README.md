@@ -25,7 +25,7 @@ An animated blurry loading background effect that smoothly reveals a background 
 
 ## 🔗 Live Link
 
-<a href="https://toaufik.github.io/50-projects-50-Days/day_04/index.html" target="_blank">Hidden Search Widget</a>
+<a href="https://toaufik.github.io/50-projects-50-Days/day_05/index.html" target="_blank">Blurry Loading Background</a>
 
 
 ## 📁 Project Structure

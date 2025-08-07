@@ -18,6 +18,7 @@ Each project includes:
 | 3   | **Rotating Navigation** | An interactive UI with a rotating navigation menu that smoothly rotates the entire layout.   |
 | 4   | **Hidden Search Widget** | An interactive hidden search widget reveals a search bar smoothly when clicked  |
 | 5   | **Blurry Loading Background** | An animated blurry loading background effect that smoothly reveals the background  |
+| 6   | **Scroll Animation** | A scroll-based animation where content boxes slide into view when scrolled  |
 
 *More projects coming soon...*
 

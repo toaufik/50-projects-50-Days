@@ -15,7 +15,7 @@ body {
 }
 
 .bg {
-    background: url('/assets/img/blurr-bg.webp') no-repeat center center/cover;
+    background: url('../img/blurr-bg.webp') no-repeat center center/cover;
      position: absolute;
     top: 0;
     left: 0;
