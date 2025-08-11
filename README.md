@@ -19,6 +19,8 @@ Each project includes:
 | 4   | **Hidden Search Widget** | An interactive hidden search widget reveals a search bar smoothly when clicked  |
 | 5   | **Blurry Loading Background** | An animated blurry loading background effect that smoothly reveals the background  |
 | 6   | **Scroll Animation** | A scroll-based animation where content boxes slide into view when scrolled  |
+| 7   | **Split Landing Page** | A split landing page with two panels that expand on hover  |
+| 8   | **Form Input Animation** | A clean login form where each label animates upward in a wave effect  |
 
 *More projects coming soon...*
 
