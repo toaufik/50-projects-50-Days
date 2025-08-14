@@ -21,6 +21,7 @@ Each project includes:
 | 6   | **Scroll Animation** | A scroll-based animation where content boxes slide into view when scrolled  |
 | 7   | **Split Landing Page** | A split landing page with two panels that expand on hover  |
 | 8   | **Form Input Animation** | A clean login form where each label animates upward in a wave effect  |
+| 9   | **Sound Effect** | Grid of buttons that each play a corresponding sound when clicked  |
 
 *More projects coming soon...*
 
