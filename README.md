@@ -23,6 +23,7 @@ Each project includes:
 | 8   | **Form Input Animation** | A clean login form where each label animates upward in a wave effect  |
 | 9   | **Sound Effect** | Grid of buttons that each play a corresponding sound when clicked  |
 | 10   | **Dad Jokes** | A app that serves dad jokes every time page gets refreshed or click the Get Another Joke button  |
+| 11   | **Event KeyCodes** | A tiny web app that shows the Key, Key Code, and Code for any key you press  |
 
 *More projects coming soon...*
 
