@@ -24,6 +24,7 @@ Each project includes:
 | 9   | **Sound Effect** | Grid of buttons that each play a corresponding sound when clicked  |
 | 10   | **Dad Jokes** | A app that serves dad jokes every time page gets refreshed or click the Get Another Joke button  |
 | 11   | **Event KeyCodes** | A tiny web app that shows the Key, Key Code, and Code for any key you press  |
+| 12   | **FAQ Collapse** | A simple, interactive FAQ section with collapsible panels  |
 
 *More projects coming soon...*
 
