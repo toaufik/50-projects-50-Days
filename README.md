@@ -25,6 +25,8 @@ Each project includes:
 | 10   | **Dad Jokes** | A app that serves dad jokes every time page gets refreshed or click the Get Another Joke button  |
 | 11   | **Event KeyCodes** | A tiny web app that shows the Key, Key Code, and Code for any key you press  |
 | 12   | **FAQ Collapse** | A simple, interactive FAQ section with collapsible panels  |
+| 13   | **Random Choice Picker** | A fun tool that helps you make decisions by picking a random choice from a list of options  |
+| 14   | **Collapsible Animated Navigation** | An animated vertical navigation that expands and collapses when the hamburger icon is clicked  |
 
 *More projects coming soon...*
 
