@@ -27,6 +27,7 @@ Each project includes:
 | 12   | **FAQ Collapse** | A simple, interactive FAQ section with collapsible panels  |
 | 13   | **Random Choice Picker** | A fun tool that helps you make decisions by picking a random choice from a list of options  |
 | 14   | **Collapsible Animated Navigation** | An animated vertical navigation that expands and collapses when the hamburger icon is clicked  |
+| 15   | **Incrementing Counter** | A simple app that displays social media follower/subscriber counts and animates them from 0 up to the target number  |
 
 *More projects coming soon...*
 
